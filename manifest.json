@@ -1,0 +1,9 @@
+{
+  "domain": "nhc_1",
+  "name": "Niko Home Control 1",
+  "codeowners": [],
+  "documentation": "https://www.home-assistant.io/integrations/niko_home_control",
+  "iot_class": "local_polling",
+  "loggers": ["nikohomecontrol"],
+  "requirements": ["niko-home-control==0.2.1"]
+}
