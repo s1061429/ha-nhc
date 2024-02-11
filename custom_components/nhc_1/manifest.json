@@ -4,6 +4,6 @@
   "codeowners": [],
   "documentation": "https://www.home-assistant.io/integrations/niko_home_control",
   "iot_class": "local_polling",
-  "loggers": ["nikohomecontrol"],
+  "loggers": ["nhc_1"],
   "requirements": ["niko-home-control==0.2.1"]
 }

@@ -1,1 +1,1 @@
-"""The niko_home_control component."""
+"""The nhc_1 component."""
